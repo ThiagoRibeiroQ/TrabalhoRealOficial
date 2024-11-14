@@ -48,6 +48,31 @@ CREATE TABLE Filme (
     data_inclusao DATE             
 );
 
+### Passo 3: Configurar o apache tomcat:
+Baixe e instale o Apache Tomcat (se ainda não tiver).
+Configure o Tomcat no Eclipse ou na sua IDE de escolha:
+Eclipse: Vá em Window > Preferences > Server > Runtime Environments e adicione o Tomcat.
+Adicione o seu projeto ao Tomcat no Eclipse:
+Clique com o botão direito no servidor Tomcat e selecione Add and Remove Projects.
+Adicione o seu projeto à lista de projetos do Tomcat.
+
+
+## Executando o Projeto
+### Passo 1: Iniciar o Tomcat
+Abra o Eclipse ou seu ambiente de desenvolvimento.
+Inicie o servidor Tomcat através do painel de servidores.
+Certifique-se de que o Tomcat está configurado para o seu projeto (no painel de servidores, adicione o projeto ao Tomcat).
+
+### Passo 2: Acessar no Navegador
+Abra o navegador e digite o seguinte endereço: http://localhost:8080/[nome_do_projeto]/[pagina.jsp]
+
+
+
+## Funcionalidades
+Cadastro de Filmes: Permite adicionar novos filmes ao banco de dados.
+Listagem de Filmes: Exibe todos os filmes cadastrados no banco de dados.
+Edição de Filmes: Permite editar os dados dos filmes cadastrados.
+Exclusão de Filmes: Permite excluir filmes do banco de dados
 
 ```bash
 git clone https://link-para-o-repositorio.git
