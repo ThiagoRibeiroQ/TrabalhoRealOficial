@@ -69,10 +69,14 @@ Abra o navegador e digite o seguinte endereço: http://localhost:8080/[nome_do_p
 
 
 ## Funcionalidades
-Cadastro de Filmes: Permite adicionar novos filmes ao banco de dados.
-Listagem de Filmes: Exibe todos os filmes cadastrados no banco de dados.
-Edição de Filmes: Permite editar os dados dos filmes cadastrados.
-Exclusão de Filmes: Permite excluir filmes do banco de dados
+### Cadastro de Filmes: 
+Permite adicionar novos filmes ao banco de dados.
+### Listagem de Filmes: 
+Exibe todos os filmes cadastrados no banco de dados.
+### Edição de Filmes:
+Permite editar os dados dos filmes cadastrados.
+### Exclusão de Filmes:
+Permite excluir filmes do banco de dados
 
 ```bash
 git clone https://link-para-o-repositorio.git
