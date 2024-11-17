@@ -1,3 +1,7 @@
+
+
+
+
 # Locadora
 
 Um sistema simples que permite realizar operações de inclusão, exclusão, pesquisa e alteração de filmes em uma base de dados MySQL utilizando Servlets e JSP.
@@ -77,6 +81,12 @@ Exibe todos os filmes cadastrados no banco de dados.
 Permite editar os dados dos filmes cadastrados.
 ### Exclusão de Filmes:
 Permite excluir filmes do banco de dados
+
+## integrantes do grupo 
+### Thiago Ribeiro Queiroz 
+### Gustavo Silva Damasceno 
+### Graziella Doche
+
 
 ```bash
 git clone https://link-para-o-repositorio.git
