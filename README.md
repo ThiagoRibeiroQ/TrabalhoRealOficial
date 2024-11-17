@@ -86,6 +86,7 @@ Permite excluir filmes do banco de dados
 ### Thiago Ribeiro Queiroz 
 ### Gustavo Silva Damasceno 
 ### Graziella Doche
+### Thiago Alcino de Andrade Noronha 
 
 
 ```bash
